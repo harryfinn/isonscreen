@@ -1,0 +1,24 @@
+{
+  "name": "jquery-isonscreen",
+  "version": "1.0.0",
+  "description": "A simply jQuery plugin to determine if an element is within the current users viewport",
+  "main": "jquery.isonscreen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryfinn/isonscreen.git"
+  },
+  "keywords": [
+    "jQuery",
+    "on",
+    "screen"
+  ],
+  "author": "harryfinn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harryfinn/isonscreen/issues"
+  },
+  "homepage": "https://github.com/harryfinn/isonscreen#readme"
+}
