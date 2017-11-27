@@ -1,4 +1,3 @@
-
 (function($) {
   $.fn.isOnScreen = function(x_offset, y_offset) {
     if(x_offset == null || typeof x_offset == 'undefined') x_offset = 1;
